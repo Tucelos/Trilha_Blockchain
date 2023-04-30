@@ -1,8 +1,21 @@
 # Trilha_Blockchain
 Repositório dedicado a realizar a sincronização das atividades realizadas na trilha de blockchain do estagio do estudio de blockchain da CompassUol
 
-Seção dedicada a salvar as  atividades desenvolvidas na plataforma Cripto Zombies Solidity.
+### **Seção dedicada a salvar as  atividades desenvolvidas na plataforma Cripto Zombies Solidity.**
 
 ![CriptoZombies](https://cryptozombies.io/images/Group%201421.png)
 
+------------
 
+_O Curso Solidity Beginner to Intermediate Smart Contracts_
+-
+_Conta com as seguintes atividades:_
+
+- Fazendo a Fábrica de Zumbi
+- Zumbis atacam suas vítimas
+- Conceitos Avançados de Solidity
+- Sistema de Batalha Zumbi
+- ERC721 & Cripto-Colecionáveis
+- Aplicativos Front-end & Web3.js
+-----------------
+ #### O conteudo do Curso supracitado esta disponivel [aqui](https://cryptozombies.io/pt/solidity)
