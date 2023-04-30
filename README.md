@@ -18,4 +18,5 @@ _Conta com as seguintes atividades:_
 - ERC721 & Cripto-Colecionáveis
 - Aplicativos Front-end & Web3.js
 -----------------
- #### O conteudo do Curso supracitado esta disponivel [aqui](https://cryptozombies.io/pt/solidity)
+ #### O conteudo do Curso supracitado esta disponivel clickando na imagem abaixo:
+ [![link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrgDKyVvL6BTCCEnNu5tLL0wUeEKdPsZXhVNXLZEy7DwgC_i2EF48bGiFAJ2WYi_mGh4&usqp=CAU)](https://cryptozombies.io/pt/solidity)
